@@ -1,0 +1,8 @@
+g++ -ansi -Wall -g -c appt.cpp
+g++ -ansi -Wall -g -c calendar.cpp
+g++ -ansi -Wall -g -c day.cpp
+g++ -ansi -Wall -g -c DayOfWeek.cpp
+g++ -ansi -Wall -g -c main.cpp
+g++ -ansi -Wall -g -c time.cpp
+g++ -ansi -Wall -g -c linkedlist.cpp
+g++ -ansi -Wall -g -o calendar.out appt.o calendar.o day.o DayOfWeek.o main.o time.o linkedlist.o 

@@ -1,0 +1,25 @@
+Processing :  /home/asroman/ECS40/prog1/appt.cpp
+Processing :  /home/asroman/ECS40/prog1/appt.h
+Processing :  /home/asroman/ECS40/prog1/calendar.cpp
+/home/asroman/ECS40/prog1/calendar.cpp(151, 1):  Do not write function over 35 lines(getDate).  [RULE_6_1_G_write_less_than_35_lines_for_function] 
+Processing :  /home/asroman/ECS40/prog1/calendar.h
+Processing :  /home/asroman/ECS40/prog1/day.cpp
+Processing :  /home/asroman/ECS40/prog1/day.h
+Processing :  /home/asroman/ECS40/prog1/main.cpp
+Processing :  /home/asroman/ECS40/prog1/time.cpp
+Processing :  /home/asroman/ECS40/prog1/time.h
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 30
+ ** Total Violated Rules      : 1
+ ** Total Errors Occurs       : 1
+ ** Total Analyzed Files      : 9
+ ** Total Violated Files Count: 1
+ ** Build Quality             : 88.89%
+
+================================ Violated Rule Details ===============================
+ -  RULE_6_1_G_write_less_than_35_lines_for_function rule violated : 1
+
+================================ Violated File Details ===============================

@@ -1,0 +1,30 @@
+Processing :  /home/asroman/ECS40/P5/appt.cpp
+Processing :  /home/asroman/ECS40/P5/appt.h
+Processing :  /home/asroman/ECS40/P5/calendar.cpp
+Processing :  /home/asroman/ECS40/P5/calendar.h
+Processing :  /home/asroman/ECS40/P5/day.cpp
+Processing :  /home/asroman/ECS40/P5/day.h
+Processing :  /home/asroman/ECS40/P5/DayOfWeek.cpp
+Processing :  /home/asroman/ECS40/P5/DayOfWeek.h
+Processing :  /home/asroman/ECS40/P5/main.cpp
+Processing :  /home/asroman/ECS40/P5/linkedlist.h
+Processing :  /home/asroman/ECS40/P5/time.h
+Processing :  /home/asroman/ECS40/P5/time.cpp
+Processing :  /home/asroman/ECS40/P5/linkedlist.cpp
+Processing :  /home/asroman/ECS40/P5/days.cpp
+Processing :  /home/asroman/ECS40/P5/LinkedList.cpp
+Processing :  /home/asroman/ECS40/P5/LinkedList.h
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 30
+ ** Total Violated Rules      : 0
+ ** Total Errors Occurs       : 0
+ ** Total Analyzed Files      : 16
+ ** Total Violated Files Count: 0
+ ** Build Quality             : 100.00%
+
+================================ Violated Rule Details ===============================
+
+================================ Violated File Details ===============================

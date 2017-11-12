@@ -1,0 +1,13 @@
+As with previous programs, this version of the DesignChecker does not
+check for correct consts.  I will add those checks Saturday morning.
+Scores from p6 for Babchanik,Viktor Roman,Adrian 
+
+Note that the format for authors.csv is: e-mail<comma>family name<comma>given name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: vbabchanik@ucdavis.edu asroman@ucdavis.edu  
+Style: 0 out of 5
+Design: 14 out of 15 
+Operation: 26 out of 30 
+Warnings (subtracted from final score down to zero): 0
+Total: 40 out of 50.
