@@ -1,2 +1,2 @@
 # Calendar
-This is my Calendaring Software
+Calendaring Software
